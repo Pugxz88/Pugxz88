@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media.giphy.com/media/WuXNMwPgAAdZ3Oeclz/giphy.gif)](https://onslink.xyz)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZg7YvkNK5bLPDLYr3h5wcFJj44I50lSr_zpk32RoxRK7Dgc5Ix0fYYnme_Ix3Ddg3PJ4xbVUScX8Lj0Ozt7T81mL5MYZlq4uTciPpcJUCfyuQ6nxeaG_ESjAqwwm3NkCMpO-y1tH2vR_mLtHRg0iWmSqcIrAGkEhFUw7JIiQfRtxf80KPApqqViKQbA/w640-h346/Animated%20gif%20about%20gif%20in%20%E2%80%A2%20galaxy%20%E2%80%A2%20universe%20by%20%E2%9C%BF%20SunlightSoul%20%E2%9C%BF%20(1600x400).gif)](https://onslink.xyz)
 
 <h1 align="center">Hi 👋, I'm Deogracias Esplana</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
