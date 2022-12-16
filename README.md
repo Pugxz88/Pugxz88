@@ -1,5 +1,5 @@
 
-[![MasterHead](https://giphy.com/gifs/peace-slices-porc-qhSQnwzckRnheLIBEX)](https://onslink.xyz)
+[![MasterHead](https://media.giphy.com/media/WuXNMwPgAAdZ3Oeclz/giphy.gif)](https://onslink.xyz)
 
 <h1 align="center">Hi 👋, I'm Deogracias Esplana</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
