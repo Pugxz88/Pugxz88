@@ -1,9 +1,9 @@
 
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgakL04g4GuREeeVlMwm0IS0bnhAISc96gGWVd3ZTdWP8NLAHxEk7JVfa0oULqsD7oLE-Zcg0GwLq-O6m68dzGtGwsh4QmVKfHdXgFsX7LwKhwCxEllbuMxP3f0xwFDb9cLRdfpjr7xFrNTfG6x29yztwM12B9MjmVmn5G_AGE5mEL40RHLyumgz3MZhA/w640-h240/Animated%20gif%20about%20gif%20in%20%E2%80%A2%20galaxy%20%E2%80%A2%20universe%20by%20%E2%9C%BF%20SunlightSoul%20PS%E2%9C%BF.gif(2000x400))](https://onslink.xyz)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3D1dxRmXG2F-0KT9FJ2BGgT7jJxniNDMVsZzHwUkuRO4nQO3LeTsVmAlvIxqu49PBckEzuRnYZXuIz5NGzYuRlbHyY6X7lonteiwub7VU3_Da6-k6x_YrTG0e0UyJJWvllaCVLlnaLGunP_OSDacwuwtiVaGgEA5Xo3wQ01-ArxswvtRyoj128K1IFg/w1675-h393/github.gif)](https://onslink.xyz)
 
 <h1 align="center">Hi 👋, I'm Deogracias Esplana</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/bbLYF.gif" 
+<img align="right" alt="coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5VOBsGyZ-UbTkhvviMISdzr7dj6WxrfSWe6gpPfHcKgWs_KNkV7D3-qeRHsReD9imX0AumyZ3iUkYlkXMqb6lQGxOYu8ZdW-bFqJ4KLXXs0pnz0UXlC9HbRFM7-vIJEcMaKX4BhuTtkBxamHmNASqb22cXguYmuIskbtsVxxNYiiI6vNz_b6WCVAkbw/w200-h123/giphy.gif" 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pugxz88&label=Profile%20views&color=0e75b6&style=flat" alt="pugxz88" /> </p>
 
